@@ -2,7 +2,7 @@
 # Tableau Challenge - Citibike Dashboard
 Summary
 The link to the dashboards and visualizations on Tableau Public is 
-
+https://public.tableau.com/app/profile/uma.selvaraj/viz/new_citibike_challenge/Story1
 
 In this project I am building dashboards and other visualizations using Tableau to relay information about the Citi Bike data from New York City.
 
